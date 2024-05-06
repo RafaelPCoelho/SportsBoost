@@ -2,10 +2,10 @@
   "/_not-found": "app/_not-found.js",
   "/page": "app/page.js",
   "/robots.txt/route": "app/robots.txt/route.js",
-  "/listacomopes/page": "app/listacomopes/page.js",
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/esportes/page": "app/esportes/page.js",
   "/compreboost/page": "app/compreboost/page.js",
+  "/esportes/page": "app/esportes/page.js",
+  "/listacomopes/page": "app/listacomopes/page.js",
   "/perfil/page": "app/perfil/page.js",
   "/signup/page": "app/signup/page.js"
 }

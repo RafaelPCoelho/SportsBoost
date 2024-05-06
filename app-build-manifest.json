@@ -23,14 +23,15 @@
       "static/chunks/326-dde450d29a399aac.js",
       "static/chunks/app/page-a42a4134462523ae.js"
     ],
-    "/listacomopes/page": [
+    "/compreboost/page": [
       "static/chunks/webpack-8db35417c891d024.js",
       "static/chunks/bf6a786c-6b63059b19df2a95.js",
       "static/chunks/290-bc6e6fc8e69e9bbb.js",
       "static/chunks/main-app-e0d7a368e5d2aadd.js",
       "static/chunks/46170725-0eb35573f5483b88.js",
       "static/chunks/283-13e306f71029eb8e.js",
-      "static/chunks/app/listacomopes/page-b6983589a5d92fb3.js"
+      "static/chunks/326-dde450d29a399aac.js",
+      "static/chunks/app/compreboost/page-5ba1cb6df03f06af.js"
     ],
     "/esportes/page": [
       "static/chunks/webpack-8db35417c891d024.js",
@@ -41,15 +42,14 @@
       "static/chunks/283-13e306f71029eb8e.js",
       "static/chunks/app/esportes/page-5c2cbbc1536636b2.js"
     ],
-    "/compreboost/page": [
+    "/listacomopes/page": [
       "static/chunks/webpack-8db35417c891d024.js",
       "static/chunks/bf6a786c-6b63059b19df2a95.js",
       "static/chunks/290-bc6e6fc8e69e9bbb.js",
       "static/chunks/main-app-e0d7a368e5d2aadd.js",
       "static/chunks/46170725-0eb35573f5483b88.js",
       "static/chunks/283-13e306f71029eb8e.js",
-      "static/chunks/326-dde450d29a399aac.js",
-      "static/chunks/app/compreboost/page-5ba1cb6df03f06af.js"
+      "static/chunks/app/listacomopes/page-b6983589a5d92fb3.js"
     ],
     "/perfil/page": [
       "static/chunks/webpack-8db35417c891d024.js",
