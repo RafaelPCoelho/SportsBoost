@@ -1,11 +1,11 @@
 {
-  "homepage": "https://rafaelpcoelho.github.io/SportsBoost/",
+  "homepage": "https://rafaelpcoelho.github.io/SportsBoost",
   "name": "micheles-application",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d src",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
