@@ -1,41 +1,21 @@
 {
-  "homepage": "https://rafaelpcoelho.github.io/SportsBoost",
-  "name": "micheles-application",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d start",
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@tailwindcss/forms": "^0.5.7",
-    "@tanstack/react-table": "^8.5.30",
-    "next": "13.5.6",
-    "prop-types": "^15.8.1",
-    "react": "^18",
-    "react-dom": "^18",
-    "react-pro-sidebar": "^1.0.0"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "autoprefixer": "10.4.2",
-    "gh-pages": "^6.1.1",
-    "postcss": "8.4.8",
-    "tailwindcss": "3.0.18"
+    "name": "sportsboost2.0",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "axios": "^1.6.8",
+      "cors": "^2.8.5",
+      "dotenv": "^16.4.5",
+      "express": "^4.19.2",
+      "jsonwebtoken": "^9.0.2"
+    }
   }
-}
+  
